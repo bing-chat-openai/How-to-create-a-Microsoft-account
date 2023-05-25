@@ -1,3 +1,5 @@
+A Microsoft account is a free account that you use to access many Microsoft tools and services, such as the web-based email service Outlook.com, Office online apps, Skype, OneDrive, Xbox Live, Bing, Windows, or the Microsoft Store.
+
 # How to create a Microsoft account
 
 
